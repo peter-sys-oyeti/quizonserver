@@ -1,0 +1,67 @@
+html, body {
+    background-color: #ffcc00;
+    color: #000;
+}
+a.btn.btn-default.btn-flat {
+    border: #ffcc00;
+    background-color: #ffcc00;
+    color: #000 !important;
+}
+h1 small, h2 small, h3 small, h4 small, h5 small, h6 small, .h1 small, .h2 small, .h3 small, .h4 small, .h5 small, .h6 small, h1 .small, h2 .small, h3 .small, h4 .small, h5 .small, h6 .small, .h1 .small, .h2 .small, .h3 .small, .h4 .small, .h5 .small, .h6 .small {
+    color: #ffcc00 !important;
+}
+span {
+    color: #000 !important;
+}
+.dropdown-toggle span {
+    color: #000 !important;
+}
+.form-box .header {
+    background: #000 !important;
+    color: #fff !important;
+}
+.bg-light-black {
+    background-color: #000 !important;
+    color: #fff !important;
+}
+a {
+    color: #d9b62b !important;
+}
+.btn.btn-secondary, .btn.btn-primary {
+    background-color: #000 !important;
+    border-color: #000 !important;
+    color: #ffcc00 !important;
+}
+.skin-blue .logo {
+    background-color: #ffcc00 !important;
+    color: #000 !important;
+}
+.skin-blue .navbar {
+    background-color: #ffcc00 !important;
+}
+.skin-blue .navbar .nav a {
+    color: #000 !important;
+}
+.navbar-nav > .user-menu > .dropdown-menu > li.user-header {
+    background: #ffcc00 !important;
+}
+.navbar-nav > .user-menu > .dropdown-menu > li.user-header > p{
+  color: #000 !important;
+  text-shadow: 1px 1px 1px #000 !important;
+}
+.content {
+    background: #000;
+}
+.skin-blue .right-side > .content-header{
+    background: #000;  
+}
+.alert-success {
+    color: #fff;
+    background-color: #000;
+    border-color: #000;
+}
+@media only screen and (max-width: 600px) {
+	.content {
+    background: #ffcc00 !important;
+}
+}
